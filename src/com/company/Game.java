@@ -52,7 +52,7 @@ public class Game {
             combinacionServer.add(Integer.valueOf(colores[x]));
         }
     }
-
+//
     public void check() {
 
         //Bucle para comparar lo que el usuario ha introducido con el resultado final
